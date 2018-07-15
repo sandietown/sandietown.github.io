@@ -1,0 +1,83 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+  }
+  body {
+     width: 1450px;
+     height: 100%;
+     background-image: url('wildginger.jpg');
+     color: #FFF9F9;
+  }
+
+  header {
+      background-color:#FFF9F9;
+      padding: 5px;
+      border: 5px solid #000000;
+      font-size: 30px;
+      display: block;
+      margin: 50px;
+      color: #FF3A74;
+  }
+  nav {
+      float: left;
+      width: 200%;
+      background-color: #FFC8C0;
+      margin: 100px;
+  }
+  nav ul {
+      padding: ;
+      float: left;
+      border-bottom: ;
+      list-style-type: none;
+  }
+  nav li {
+      float: left;
+  }
+  nav li a {
+      display: block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+  }
+  a {
+      color: blue;
+      font-size: 30px;
+  }
+  section {
+      width: 73%;
+      display: inline-block;
+      float: left;
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:white;
+      color:;
+      clear: both;
+      display: block;
+    }
+    h2 {
+        font-size: 40px;
+        font-family:'bookman';
+        color: #FF938B;
+    }
+    p {
+        font-size: 30px;
+    }
+    h3{
+        font-size: 30px;
+        color: #3AFFC9;
+    
+    }

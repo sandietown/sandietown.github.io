@@ -1,0 +1,69 @@
+html {
+      height: 100%;
+      width: 100%;
+}
+    body {
+            background-image:linear-gradient(
+            rgba(0, 0, 0, 0.4),
+            rgba(0, 0, 0, 0.4) 
+          ), url("code101_photos/skyline.jpg");
+            height: 100%; 
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            color: aliceblue;
+        
+       width: 800px;
+       height: 100%;
+    }
+
+    header {
+        background-color:rgb(100, 185, 178);
+        padding: 5px;
+        font-size: 19px;
+        display: block;
+        border: 2px lightgrey solid;
+    }
+    div { background-color: rgba(83, 31, 29, 0.3);
+        height: 100S%; 
+        width: 100%;
+       
+    }
+    nav {
+        background-color: grey ;
+        float: left;
+        width: 100%;
+       border: 2px lightgrey solid;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 20px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
